@@ -1,0 +1,20 @@
+joe:KI3XYGWt2iB9.:501:501:Joe Panello:/home/joe:/bin/ksh
+cheever:ZooXyeZoRsmdo:502:502:J. Cheever Loophole:/home/cheever:/bin/bash
+bob:YkVmHcrS4tAUA:503:503:Bob Roland:/home/bob:/bin/bash
+rusty:oU1WrDYnx1B8M:504:504:Rusty Panello:/home/rusty:/bin/bash
+arabella:pH/sQQ.tHXd0.:505:505:Arabella Rittenhouse:/home/arabella:/bin/zsh
+horatio:N2.65E10Y7gpk:506:506:Horatio Jamison:/home/horatio:/bin/bash
+peter:Vgg3Y1qxA1T8o:507:507:Peter Minuit:/home/peter:/bin/bash
+lionel:BLXnCsDZVzlno:508:508:Lionel Q. Devereaux:/home/lionel:/bin/dash
+otis:I4clveO3l8Bnw:509:509:Otis B. Driftwood:/home/otis:/bin/bash
+rosa:Ev.amPxaQmVTw:510:510:Rosa Castaldi:/home/rosa:/bin/bash
+quincy:LN6yWF5o0tJMQ:511:511:Quincy Adams Wagstaff:/home/quincy:/bin/zsh
+quentin:qvTSR5Goqo/26:512:512:S. Quentin Quale:/home/quentin:/bin/ksh
+frank:tHe4RHuY2YMrg:513:513:Frank Wagstaff:/home/frank:/bin/bash
+emile:5diFKQFKA0F8c:514:514:Emile J. Keck:/home/emile:/bin/zsh
+sam:MpWKF7IexnazI:515:515:Sam Grunion:/home/sam:/bin/bash
+ronald:8NMppxfpAZqIM:516:516:Ronald Kornblow:/home/ronald:/bin/bash
+hugo:nLjRsgLNiZlMc:517:517:Hugo Z. Hackenbush:/home/hugo:/bin/zsh
+sammy:eK12rYLtp4A52:518:518:Sammy Brown:/home/sammy:/bin/zsh
+emily:zK/NDuNVgUuaw:519:519:Emily Upjohn:/home/emily:/bin/bash
+antonio:Kz/xV6nl1C.TA:520:520:Antonio Pirelli:/home/antonio:/bin/zsh
